@@ -11,7 +11,7 @@ The tool allows to assess the deep geothermal energy potential of hot deep aquif
 In this folder you can distinguish two main folders:
 
  - **3DHIP_executable v_1.1** folder : Which contains the standalone executable MATLAB-based software compiled for Microsoft Windows™ (3DHIP_Calculator.exe). During 	the installation MATLAB libraries will be automatically downloaded and installed to correctly run the app. To install the app just double click on the executable file and follow the installation instructions. Al the files described in the next folder are compiled in the standalone executable.
- - **3DHIP_v1.1._files** folder: Which contains the different files to use the 3DHIP-Calculator v1.1. in MATLAB. 
+ - **3DHIP_v1.1._files** folder: Which contains the source code and other different files to use the 3DHIP-Calculator v1.1. in MATLAB. 
 
 	 - 3DHIP_Calculator_Software_User_Manual_v1.1.pdf: The software manual in PDF
 	 - HIP_Calculator.mlapp: **the source code** *.mlapp file for the App Designer in MATLAB. To use it, just click and the app designer script will open into MATLAB. Both graphical interface and code view can be acceded.
