@@ -26,7 +26,7 @@ In this folder you can distinguish two main folders:
 		 - workflow_diagram.png
 
 
-**License**
+**License**:
 The product is released under the Creative Commons licence Attribution 4.0 International, known as CC BY 4.0.
 
 
