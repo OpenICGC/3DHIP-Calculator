@@ -42,3 +42,5 @@ Piris, G., Herms, I., Griera, A., Gómez-Rivas, E., Colomer, M. (2020). 3DHIP-Ca
 
 
 **References about the tool**
+
+Herms, I.; Piris, G.; Colomer, M.; Peigney, C.; Griera, A.; Ledo, J. (2020). 3D Numerical Modelling Combined with a Stochastic Approach in a Matlab-based Tool to Assess Deep Geothermal Potential in Catalonia: The Case Test Study of the Reus Valls Basin. Proceedings World Geothermal Congress 2020 ([extended abstract](https://pangea.stanford.edu/ERE/db/WGC/papers/WGC/2020/16023.pdf))
