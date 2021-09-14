@@ -1,1 +1,4 @@
 *.mlapp linguist-language=MATLAB
+*.mlapp text
+**/*.mlapp linguist-language=MATLAB
+**/*.mlapp text
