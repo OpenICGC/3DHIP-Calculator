@@ -1,4 +1,4 @@
-# 3DHIP-Calculator App
+# 3DHIP-Calculator App 
  
 ## Stochastic assessment and mapping of deep geothermal potential using 3D voxel-based geological models
 
@@ -6,7 +6,7 @@
 
 The tool allows to assess the deep geothermal energy potential of hot deep aquifers from 3D geological and thermal voxel models. The App applies the USGS "Heat-in-Place (HIP)" method (Muffler and Cataldi, 1978) using a stochastic approach based on Monte Carlo simulations.
 
-**Instructions about the content of the repository of the 3DHIP-Calculator v1.1 (December 2020)**
+**Instructions about the content of the repository of the current version 3DHIP-Calculator v1.1 (December 2020)**
 
 In this folder you can distinguish two main folders:
 
