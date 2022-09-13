@@ -38,7 +38,7 @@ The product is released under the Creative Commons licence Attribution 4.0 Inter
 
 **How the cite the tool**
 
-Piris, G., Herms, I., Griera, A., Gómez-Rivas, E., Colomer, M. (2020). 3DHIP-Calculator (v1.1) [Software]. ICGC, UAB. CC-BY 4.0.
+Piris, G., Herms, I., Griera, A., Gómez-Rivas, E., Colomer, M. (2022). 3DHIP-Calculator (v1.2) [Software]. ICGC, UAB. CC-BY 4.0.
 
 
 **References about the tool**
